@@ -1,0 +1,355 @@
+Dimension Code,Dimension Description,Item Code,Item Description
+CL_UNIT_MULT,Scale,0,Units
+CL_UNIT_MULT,Scale,2,Hundreds
+CL_UNIT_MULT,Scale,3,Thousands
+CL_UNIT_MULT,Scale,6,Millions
+CL_UNIT_MULT,Scale,9,Billions
+CL_UNIT_MULT,Scale,12,Trillions
+CL_UNIT_MULT,Scale,N15,Quadrillionths
+CL_UNIT_MULT,Scale,N14,Hundred Trillionths
+CL_UNIT_MULT,Scale,N13,Ten Trillionths
+CL_UNIT_MULT,Scale,N12,Trillionths
+CL_UNIT_MULT,Scale,N11,Hundred Billionths
+CL_UNIT_MULT,Scale,N10,Ten Billionths
+CL_UNIT_MULT,Scale,N9,Billionths
+CL_UNIT_MULT,Scale,N8,Hundred Millionths
+CL_UNIT_MULT,Scale,N7,Ten Millionths
+CL_UNIT_MULT,Scale,N6,Millionths
+CL_UNIT_MULT,Scale,N5,Hundred Thousandths
+CL_UNIT_MULT,Scale,N4,Ten Thousandths
+CL_UNIT_MULT,Scale,N3,Thousandths
+CL_UNIT_MULT,Scale,N2,Hundredths
+CL_UNIT_MULT,Scale,N1,Tenths
+CL_UNIT_MULT,Scale,1,Tens
+CL_UNIT_MULT,Scale,4,Ten Thousands
+CL_UNIT_MULT,Scale,5,Hundred Thousands
+CL_UNIT_MULT,Scale,7,Ten Millions
+CL_UNIT_MULT,Scale,8,Hundred Millions
+CL_UNIT_MULT,Scale,10,Ten Billions
+CL_UNIT_MULT,Scale,11,Hundred Billions
+CL_UNIT_MULT,Scale,13,Ten Trillions
+CL_UNIT_MULT,Scale,14,Hundred Trillions
+CL_UNIT_MULT,Scale,15,Quadrillions
+CL_FREQ,Frequency,A,Annual
+CL_FREQ,Frequency,B,Bi-annual
+CL_FREQ,Frequency,Q,Quarterly
+CL_FREQ,Frequency,M,Monthly
+CL_FREQ,Frequency,D,Daily
+CL_FREQ,Frequency,W,Weekly
+CL_AREA_GFSCOFOG,Geographical Areas,AF,Afghanistan
+CL_AREA_GFSCOFOG,Geographical Areas,AL,Albania
+CL_AREA_GFSCOFOG,Geographical Areas,DZ,Algeria
+CL_AREA_GFSCOFOG,Geographical Areas,AO,Angola
+CL_AREA_GFSCOFOG,Geographical Areas,AI,Anguilla
+CL_AREA_GFSCOFOG,Geographical Areas,AG,Antigua and Barbuda
+CL_AREA_GFSCOFOG,Geographical Areas,AR,Argentina
+CL_AREA_GFSCOFOG,Geographical Areas,AM,Armenia
+CL_AREA_GFSCOFOG,Geographical Areas,AW,Aruba
+CL_AREA_GFSCOFOG,Geographical Areas,AU,Australia
+CL_AREA_GFSCOFOG,Geographical Areas,AT,Austria
+CL_AREA_GFSCOFOG,Geographical Areas,AZ,Azerbaijan
+CL_AREA_GFSCOFOG,Geographical Areas,BS,Bahamas
+CL_AREA_GFSCOFOG,Geographical Areas,BH,Bahrain
+CL_AREA_GFSCOFOG,Geographical Areas,BD,Bangladesh
+CL_AREA_GFSCOFOG,Geographical Areas,BB,Barbados
+CL_AREA_GFSCOFOG,Geographical Areas,BY,Belarus
+CL_AREA_GFSCOFOG,Geographical Areas,BE,Belgium
+CL_AREA_GFSCOFOG,Geographical Areas,BZ,Belize
+CL_AREA_GFSCOFOG,Geographical Areas,BJ,Benin
+CL_AREA_GFSCOFOG,Geographical Areas,BT,Bhutan
+CL_AREA_GFSCOFOG,Geographical Areas,BO,Bolivia
+CL_AREA_GFSCOFOG,Geographical Areas,BA,Bosnia and Herzegovina
+CL_AREA_GFSCOFOG,Geographical Areas,BW,Botswana
+CL_AREA_GFSCOFOG,Geographical Areas,BR,Brazil
+CL_AREA_GFSCOFOG,Geographical Areas,BN,Brunei Darussalam
+CL_AREA_GFSCOFOG,Geographical Areas,BG,Bulgaria
+CL_AREA_GFSCOFOG,Geographical Areas,BF,Burkina Faso
+CL_AREA_GFSCOFOG,Geographical Areas,BI,Burundi
+CL_AREA_GFSCOFOG,Geographical Areas,CV,Cape Verde
+CL_AREA_GFSCOFOG,Geographical Areas,KH,Cambodia
+CL_AREA_GFSCOFOG,Geographical Areas,CM,Cameroon
+CL_AREA_GFSCOFOG,Geographical Areas,CA,Canada
+CL_AREA_GFSCOFOG,Geographical Areas,KY,Cayman Islands
+CL_AREA_GFSCOFOG,Geographical Areas,CF,Central African Republic
+CL_AREA_GFSCOFOG,Geographical Areas,TD,Chad
+CL_AREA_GFSCOFOG,Geographical Areas,CL,Chile
+CL_AREA_GFSCOFOG,Geographical Areas,HK,"Hong Kong, China"
+CL_AREA_GFSCOFOG,Geographical Areas,MO,Macao
+CL_AREA_GFSCOFOG,Geographical Areas,CN,China
+CL_AREA_GFSCOFOG,Geographical Areas,CO,Colombia
+CL_AREA_GFSCOFOG,Geographical Areas,KM,Comoros
+CL_AREA_GFSCOFOG,Geographical Areas,CD,"Congo, the Democratic Republic of the"
+CL_AREA_GFSCOFOG,Geographical Areas,CG,Congo
+CL_AREA_GFSCOFOG,Geographical Areas,CK,Cook Islands
+CL_AREA_GFSCOFOG,Geographical Areas,CR,Costa Rica
+CL_AREA_GFSCOFOG,Geographical Areas,CI,Côte d'Ivoire
+CL_AREA_GFSCOFOG,Geographical Areas,HR,Croatia
+CL_AREA_GFSCOFOG,Geographical Areas,1C_355,Curacao & St. Maarten
+CL_AREA_GFSCOFOG,Geographical Areas,CY,Cyprus
+CL_AREA_GFSCOFOG,Geographical Areas,CZ,Czech Republic
+CL_AREA_GFSCOFOG,Geographical Areas,DK,Denmark
+CL_AREA_GFSCOFOG,Geographical Areas,DJ,Djibouti
+CL_AREA_GFSCOFOG,Geographical Areas,DM,Dominica
+CL_AREA_GFSCOFOG,Geographical Areas,DO,Dominican Republic
+CL_AREA_GFSCOFOG,Geographical Areas,EC,Ecuador
+CL_AREA_GFSCOFOG,Geographical Areas,EG,Egypt
+CL_AREA_GFSCOFOG,Geographical Areas,SV,El Salvador
+CL_AREA_GFSCOFOG,Geographical Areas,GQ,Equatorial Guinea
+CL_AREA_GFSCOFOG,Geographical Areas,ER,Eritrea
+CL_AREA_GFSCOFOG,Geographical Areas,EE,Estonia
+CL_AREA_GFSCOFOG,Geographical Areas,SZ,Eswatini
+CL_AREA_GFSCOFOG,Geographical Areas,ET,Ethiopia
+CL_AREA_GFSCOFOG,Geographical Areas,U2,Euro area (Member States and Institutions of the Euro Area) changing composition
+CL_AREA_GFSCOFOG,Geographical Areas,FJ,Fiji
+CL_AREA_GFSCOFOG,Geographical Areas,FI,Finland
+CL_AREA_GFSCOFOG,Geographical Areas,FR,France
+CL_AREA_GFSCOFOG,Geographical Areas,GA,Gabon
+CL_AREA_GFSCOFOG,Geographical Areas,GM,Gambia
+CL_AREA_GFSCOFOG,Geographical Areas,GE,Georgia
+CL_AREA_GFSCOFOG,Geographical Areas,DE,Germany
+CL_AREA_GFSCOFOG,Geographical Areas,GH,Ghana
+CL_AREA_GFSCOFOG,Geographical Areas,GR,Greece
+CL_AREA_GFSCOFOG,Geographical Areas,GD,Grenada
+CL_AREA_GFSCOFOG,Geographical Areas,GT,Guatemala
+CL_AREA_GFSCOFOG,Geographical Areas,GN,Guinea
+CL_AREA_GFSCOFOG,Geographical Areas,GW,Guinea-Bissau
+CL_AREA_GFSCOFOG,Geographical Areas,GY,Guyana
+CL_AREA_GFSCOFOG,Geographical Areas,HT,Haiti
+CL_AREA_GFSCOFOG,Geographical Areas,HN,Honduras
+CL_AREA_GFSCOFOG,Geographical Areas,HU,Hungary
+CL_AREA_GFSCOFOG,Geographical Areas,IS,Iceland
+CL_AREA_GFSCOFOG,Geographical Areas,IN,India
+CL_AREA_GFSCOFOG,Geographical Areas,ID,Indonesia
+CL_AREA_GFSCOFOG,Geographical Areas,IR,"Iran, Islamic Republic of"
+CL_AREA_GFSCOFOG,Geographical Areas,IQ,Iraq
+CL_AREA_GFSCOFOG,Geographical Areas,IE,Ireland
+CL_AREA_GFSCOFOG,Geographical Areas,IL,Israel
+CL_AREA_GFSCOFOG,Geographical Areas,IT,Italy
+CL_AREA_GFSCOFOG,Geographical Areas,JM,Jamaica
+CL_AREA_GFSCOFOG,Geographical Areas,JP,Japan
+CL_AREA_GFSCOFOG,Geographical Areas,JO,Jordan
+CL_AREA_GFSCOFOG,Geographical Areas,KZ,Kazakhstan
+CL_AREA_GFSCOFOG,Geographical Areas,KE,Kenya
+CL_AREA_GFSCOFOG,Geographical Areas,KI,Kiribati
+CL_AREA_GFSCOFOG,Geographical Areas,KR,"Korea, Republic of"
+CL_AREA_GFSCOFOG,Geographical Areas,XK,Kosovo
+CL_AREA_GFSCOFOG,Geographical Areas,KW,Kuwait
+CL_AREA_GFSCOFOG,Geographical Areas,KG,Kyrgyzstan
+CL_AREA_GFSCOFOG,Geographical Areas,LA,Lao People`s Democratic Republic
+CL_AREA_GFSCOFOG,Geographical Areas,LV,Latvia
+CL_AREA_GFSCOFOG,Geographical Areas,LB,Lebanon
+CL_AREA_GFSCOFOG,Geographical Areas,LS,Lesotho
+CL_AREA_GFSCOFOG,Geographical Areas,LR,Liberia
+CL_AREA_GFSCOFOG,Geographical Areas,LY,Libya
+CL_AREA_GFSCOFOG,Geographical Areas,LT,Lithuania
+CL_AREA_GFSCOFOG,Geographical Areas,LU,Luxembourg
+CL_AREA_GFSCOFOG,Geographical Areas,MG,Madagascar
+CL_AREA_GFSCOFOG,Geographical Areas,MW,Malawi
+CL_AREA_GFSCOFOG,Geographical Areas,MY,Malaysia
+CL_AREA_GFSCOFOG,Geographical Areas,MV,Maldives
+CL_AREA_GFSCOFOG,Geographical Areas,ML,Mali
+CL_AREA_GFSCOFOG,Geographical Areas,MT,Malta
+CL_AREA_GFSCOFOG,Geographical Areas,MH,Marshall islands
+CL_AREA_GFSCOFOG,Geographical Areas,MR,Mauritania
+CL_AREA_GFSCOFOG,Geographical Areas,MU,Mauritius
+CL_AREA_GFSCOFOG,Geographical Areas,MX,Mexico
+CL_AREA_GFSCOFOG,Geographical Areas,FM,"Micronesia, Federated States of"
+CL_AREA_GFSCOFOG,Geographical Areas,MD,"Moldova, Republic of"
+CL_AREA_GFSCOFOG,Geographical Areas,MC,Monaco
+CL_AREA_GFSCOFOG,Geographical Areas,MN,Mongolia
+CL_AREA_GFSCOFOG,Geographical Areas,ME,Montenegro
+CL_AREA_GFSCOFOG,Geographical Areas,MS,Montserrat
+CL_AREA_GFSCOFOG,Geographical Areas,MA,Morocco
+CL_AREA_GFSCOFOG,Geographical Areas,MZ,Mozambique
+CL_AREA_GFSCOFOG,Geographical Areas,MM,Myanmar
+CL_AREA_GFSCOFOG,Geographical Areas,NA,Namibia
+CL_AREA_GFSCOFOG,Geographical Areas,NR,Nauru
+CL_AREA_GFSCOFOG,Geographical Areas,NP,Nepal
+CL_AREA_GFSCOFOG,Geographical Areas,NL,Netherlands
+CL_AREA_GFSCOFOG,Geographical Areas,AN,Netherlands Antilles
+CL_AREA_GFSCOFOG,Geographical Areas,NZ,New Zealand
+CL_AREA_GFSCOFOG,Geographical Areas,NI,Nicaragua
+CL_AREA_GFSCOFOG,Geographical Areas,NE,Niger
+CL_AREA_GFSCOFOG,Geographical Areas,NG,Nigeria
+CL_AREA_GFSCOFOG,Geographical Areas,MK,"North Macedonia, Republic of "
+CL_AREA_GFSCOFOG,Geographical Areas,NO,Norway
+CL_AREA_GFSCOFOG,Geographical Areas,OM,Oman
+CL_AREA_GFSCOFOG,Geographical Areas,PK,Pakistan
+CL_AREA_GFSCOFOG,Geographical Areas,PW,Palau
+CL_AREA_GFSCOFOG,Geographical Areas,PA,Panama
+CL_AREA_GFSCOFOG,Geographical Areas,PG,Papua New Guinea
+CL_AREA_GFSCOFOG,Geographical Areas,PY,Paraguay
+CL_AREA_GFSCOFOG,Geographical Areas,PE,Peru
+CL_AREA_GFSCOFOG,Geographical Areas,PH,Philippines
+CL_AREA_GFSCOFOG,Geographical Areas,PL,Poland
+CL_AREA_GFSCOFOG,Geographical Areas,PT,Portugal
+CL_AREA_GFSCOFOG,Geographical Areas,QA,Qatar
+CL_AREA_GFSCOFOG,Geographical Areas,RO,Romania
+CL_AREA_GFSCOFOG,Geographical Areas,RU,Russian Federation
+CL_AREA_GFSCOFOG,Geographical Areas,RW,Rwanda
+CL_AREA_GFSCOFOG,Geographical Areas,WS,Samoa
+CL_AREA_GFSCOFOG,Geographical Areas,SM,San Marino
+CL_AREA_GFSCOFOG,Geographical Areas,ST,Sao Tome and Principe
+CL_AREA_GFSCOFOG,Geographical Areas,SA,Saudi Arabia
+CL_AREA_GFSCOFOG,Geographical Areas,SN,Senegal
+CL_AREA_GFSCOFOG,Geographical Areas,CS,Serbia and Montenegro
+CL_AREA_GFSCOFOG,Geographical Areas,RS,Serbia
+CL_AREA_GFSCOFOG,Geographical Areas,SC,Seychelles
+CL_AREA_GFSCOFOG,Geographical Areas,SL,Sierra Leone
+CL_AREA_GFSCOFOG,Geographical Areas,SG,Singapore
+CL_AREA_GFSCOFOG,Geographical Areas,SK,Slovakia
+CL_AREA_GFSCOFOG,Geographical Areas,SI,Slovenia
+CL_AREA_GFSCOFOG,Geographical Areas,SB,Solomon Islands
+CL_AREA_GFSCOFOG,Geographical Areas,SO,Somalia
+CL_AREA_GFSCOFOG,Geographical Areas,ZA,South Africa
+CL_AREA_GFSCOFOG,Geographical Areas,SS,South Sudan
+CL_AREA_GFSCOFOG,Geographical Areas,ES,Spain
+CL_AREA_GFSCOFOG,Geographical Areas,LK,Sri Lanka
+CL_AREA_GFSCOFOG,Geographical Areas,KN,Saint Kitts and Nevis
+CL_AREA_GFSCOFOG,Geographical Areas,LC,Saint Lucia
+CL_AREA_GFSCOFOG,Geographical Areas,VC,Saint Vincent and the Grenadines
+CL_AREA_GFSCOFOG,Geographical Areas,SD,Sudan
+CL_AREA_GFSCOFOG,Geographical Areas,SR,Suriname
+CL_AREA_GFSCOFOG,Geographical Areas,SE,Sweden
+CL_AREA_GFSCOFOG,Geographical Areas,CH,Switzerland
+CL_AREA_GFSCOFOG,Geographical Areas,SY,Syrian Arab Republic
+CL_AREA_GFSCOFOG,Geographical Areas,TJ,Tajikistan
+CL_AREA_GFSCOFOG,Geographical Areas,TZ,"Tanzania, United Republic of"
+CL_AREA_GFSCOFOG,Geographical Areas,TH,Thailand
+CL_AREA_GFSCOFOG,Geographical Areas,TL,Timor-Leste
+CL_AREA_GFSCOFOG,Geographical Areas,TG,Togo
+CL_AREA_GFSCOFOG,Geographical Areas,TO,Tonga
+CL_AREA_GFSCOFOG,Geographical Areas,TT,Trinidad and Tobago
+CL_AREA_GFSCOFOG,Geographical Areas,TN,Tunisia
+CL_AREA_GFSCOFOG,Geographical Areas,TR,Turkey
+CL_AREA_GFSCOFOG,Geographical Areas,TM,Turkmenistan
+CL_AREA_GFSCOFOG,Geographical Areas,TV,Tuvalu
+CL_AREA_GFSCOFOG,Geographical Areas,UG,Uganda
+CL_AREA_GFSCOFOG,Geographical Areas,UA,Ukraine
+CL_AREA_GFSCOFOG,Geographical Areas,AE,United Arab Emirates
+CL_AREA_GFSCOFOG,Geographical Areas,GB,United Kingdom
+CL_AREA_GFSCOFOG,Geographical Areas,US,United States
+CL_AREA_GFSCOFOG,Geographical Areas,UY,Uruguay
+CL_AREA_GFSCOFOG,Geographical Areas,UZ,Uzbekistan
+CL_AREA_GFSCOFOG,Geographical Areas,VU,Vanuatu
+CL_AREA_GFSCOFOG,Geographical Areas,VE,"Venezuela, Bolivarian Republic"
+CL_AREA_GFSCOFOG,Geographical Areas,VN,Viet Nam
+CL_AREA_GFSCOFOG,Geographical Areas,PS,"Palestine, State of"
+CL_AREA_GFSCOFOG,Geographical Areas,1C_473,Yemen Arab Rep.
+CL_AREA_GFSCOFOG,Geographical Areas,YE,Yemen
+CL_AREA_GFSCOFOG,Geographical Areas,ZM,Zambia
+CL_AREA_GFSCOFOG,Geographical Areas,ZW,Zimbabwe
+CL_AREA_GFSCOFOG,Geographical Areas,1C_AAA,AAA
+CL_AREA_GFSCOFOG,Geographical Areas,1C_ALLC,All Countries
+CL_AREA_GFSCOFOG,Geographical Areas,1C_ALL,All Countries and Country Groups
+CL_AREA_GFSCOFOG,Geographical Areas,1C_All_Countries_for_Dissemination,All Countries for Dissemination
+CL_AREA_GFSCOFOG,Geographical Areas,1C_Al_Countries_for_Dissemination_Online,All Countries for Dissemination - Online
+CL_AREA_GFSCOFOG,Geographical Areas,1C_GFSY_2014_Country_Pages,All Countries for Dissemination - Print
+CL_AREA_GFSCOFOG,Geographical Areas,1C_All_Countries_PDF,All Countries PDF
+CL_AREA_GFSCOFOG,Geographical Areas,All Countries Table A and B,All Countries Table A and B
+CL_AREA_GFSCOFOG,Geographical Areas,1C_ALLG,All Country Groups
+CL_AREA_GFSCOFOG,Geographical Areas,S1311B,Budgetary central government
+CL_AREA_GFSCOFOG,Geographical Areas,S1311,Central government (excl. social security)
+CL_AREA_GFSCOFOG,Geographical Areas,S1321,Central government (incl. social security)
+CL_AREA_GFSCOFOG,Geographical Areas,S13,General government
+CL_AREA_GFSCOFOG,Geographical Areas,1C_Template_I,Template I
+CL_AREA_GFSCOFOG,Geographical Areas,1C_Template_II,Template II
+CL_AREA_GFSCOFOG,Geographical Areas,1C_Template_III,Template III
+CL_AREA_GFSCOFOG,Geographical Areas,1C_Template_IV,Template IV
+CL_SECTOR_GFSCOFOG,Sector,S1311B,Budgetary central government
+CL_SECTOR_GFSCOFOG,Sector,S1311,Central government (excl. social security funds)
+CL_SECTOR_GFSCOFOG,Sector,S1321,Central government (incl. social security funds)
+CL_SECTOR_GFSCOFOG,Sector,S13112,Extrabudgetary central government
+CL_SECTOR_GFSCOFOG,Sector,S13,General government
+CL_SECTOR_GFSCOFOG,Sector,S1313,Local governments
+CL_SECTOR_GFSCOFOG,Sector,S1314,Social security funds
+CL_SECTOR_GFSCOFOG,Sector,S1312,State governments
+CL_UNIT_GFSCOFOG,Unit,XDC,Domestic currency
+CL_UNIT_GFSCOFOG,Unit,XDC_R_B1GQ,Percent of GDP
+CL_UNIT_GFSCOFOG,Unit,XDC_R_OTE,Percent of total expenditure
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,_T,Expenditure
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0402,"Expenditure on agriculture, fishing, forestry, & hunting"
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0104,Expenditure on basic research
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0504,Expenditure on biodiversity & landscape protection
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0803,Expenditure on broadcasting & publishing 
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0202,Expenditure on civil defense
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0406,Expenditure on communication
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0602,Expenditure on community development
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0802,Expenditure on cultural services
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF02,Expenditure on defense
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0205,Expenditure on defense n.e.c.
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0204,Expenditure on defense R&D 
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF04,Expenditure on economic affairs
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0409,Expenditure on economic affairs n.e.c.
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0408,Expenditure on economic affairs R&D 
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0401,"Expenditure on economic, commercial, & labour affairs"
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF09,Expenditure on education
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0908,Expenditure on education n.e.c.
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0905,Expenditure on education not definable by level
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0907,Expenditure on education R&D
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF05,Expenditure on environment protection
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0506,Expenditure on environmental protection n.e.c.
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0505,Expenditure on environmental protection R&D
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0101,"Expenditure on exec/leg, fiscal, & external affairs"
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF1004,Expenditure on family & children
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0302,Expenditure on fire protection services
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0102,Expenditure on foreign economic aid
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0203,Expenditure on foreign military aid
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0403,Expenditure on fuel & energy
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF01,Expenditure on general public services
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0106,Expenditure on general public services n.e.c.
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0105,Expenditure on general public services R&D
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0103,Expenditure on general services
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF07,Expenditure on health
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0706,Expenditure on health n.e.c.
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0705,Expenditure on health R&D
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0703,Expenditure on hospital services
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF1006,Expenditure on housing
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF06,Expenditure on housing & community amenities
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0606,Expenditure on housing & community amenities n.e.c.
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0605,Expenditure on housing & community amenities R&D
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0601,Expenditure on housing development
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0303,Expenditure on law courts
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0701,"Expenditure on medical products, appliances, & equip"
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0201,Expenditure on military defense
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0404,"Expenditure on mining, manufacturing, & construction"
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF1002,Expenditure on old age
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0407,Expenditure on other industries
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0702,Expenditure on outpatient services
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0301,Expenditure on police services
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0503,Expenditure on pollution abatement
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0903,Expenditure on post-secondary non-tertiary education
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0901,Expenditure on pre-primary & primary education
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0304,Expenditure on prisons
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0107,Expenditure on public debt transactions
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0704,Expenditure on public health services
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF03,Expenditure on public order & safety
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0306,Expenditure on public order & safety n.e.c.
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0305,Expenditure on public order & safety R&D 
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF08,"Expenditure on recreation, culture, & religion"
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0806,"Expenditure on recreation, culture, & religion n.e.c."
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0805,"Expenditure on recreation, culture, & religion R&D"
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0801,Expenditure on recreational & sporting services
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0804,Expenditure on religious & community services
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0902,Expenditure on secondary education
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF1001,Expenditure on sickness  & disability
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF1007,Expenditure on social exclusion n.e.c.
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF10,Expenditure on social protection
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF1009,Expenditure on social protection n.e.c.
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF1008,Expenditure on social protection R&D
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0604,Expenditure on street lighting
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0906,Expenditure on subsidiary services to education
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF1003,Expenditure on survivors
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0904,Expenditure on tertiary education
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0405,Expenditure on transport
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF1005,Expenditure on unemployment
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0501,Expenditure on waste management
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0502,Expenditure on waste water management
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0603,Expenditure on water supply
+CL_COFOG_GFSCOFOG,Classification of the Functions of Government,GF0108,Transfers between different levels of govt
+CL_TIME_FORMAT,Time format,P1Y,Annual
+CL_TIME_FORMAT,Time format,P6M,Bi-annual
+CL_TIME_FORMAT,Time format,P3M,Quarterly
+CL_TIME_FORMAT,Time format,P1M,Monthly
+CL_TIME_FORMAT,Time format,P7D,Weekly
+CL_TIME_FORMAT,Time format,P1D,Daily
